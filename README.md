@@ -1,4 +1,6 @@
-# Go to Test
+# Faster Go to Test
+
+Fork of https://framagit.org/Nautigsam/vscode-go-to-test
 
 This extension allows you to switch between your code and the corresponding test file. It is agnostic of the language.
 
